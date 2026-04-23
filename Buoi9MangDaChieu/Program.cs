@@ -91,3 +91,23 @@ foreach (int item in matrix)
 
 Console.WriteLine("So luong so chan: " + countChan);
 Console.WriteLine("So luong so le: " + countLe);
+
+//tim gia tri lon nhat va nho nhat
+int min = matrix[0, 0];
+int max = matrix[0, 0];
+
+foreach (int item in matrix)
+{
+    if (item < min)
+    {
+        min = item; // Cập nhật kỷ lục nhỏ nhất mới
+    }
+    
+    if (item > max)
+    {
+        max = item; // Cập nhật kỷ lục lớn nhất mới
+    }
+}
+
+Console.WriteLine("Gia tri nho nhat (Min): " + min);
+Console.WriteLine("Gia tri lon nhat (Max): " + max);
