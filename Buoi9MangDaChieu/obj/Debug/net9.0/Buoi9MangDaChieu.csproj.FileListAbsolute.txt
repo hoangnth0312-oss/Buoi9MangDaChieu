@@ -12,3 +12,4 @@ C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\re
 C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.pdb
 C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.genruntimeconfig.cache
 C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\ref\Buoi9MangDaChieu.dll
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.sourcelink.json

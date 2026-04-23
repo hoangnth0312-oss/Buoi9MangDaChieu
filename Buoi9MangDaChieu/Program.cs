@@ -71,3 +71,23 @@ foreach (int item in matrix)
     sum += item;
 }
 Console.WriteLine("Tong tat ca cac phan tu trong ma tran la: " + sum);
+
+//chan le
+
+int countChan = 0;
+int countLe = 0;
+
+foreach (int item in matrix)
+{
+    if (item % 2 == 0)
+    {
+        countChan++; // Tăng biến đếm chẵn
+    }
+    else
+    {
+        countLe++;   // Tăng biến đếm lẻ
+    }
+}
+
+Console.WriteLine("So luong so chan: " + countChan);
+Console.WriteLine("So luong so le: " + countLe);
