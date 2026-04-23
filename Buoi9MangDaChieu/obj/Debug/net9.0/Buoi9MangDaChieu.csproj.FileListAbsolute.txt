@@ -1,0 +1,14 @@
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\bin\Debug\net9.0\Buoi9MangDaChieu.exe
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\bin\Debug\net9.0\Buoi9MangDaChieu.deps.json
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\bin\Debug\net9.0\Buoi9MangDaChieu.runtimeconfig.json
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\bin\Debug\net9.0\Buoi9MangDaChieu.dll
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\bin\Debug\net9.0\Buoi9MangDaChieu.pdb
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.AssemblyInfoInputs.cache
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.AssemblyInfo.cs
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.csproj.CoreCompileInputs.cache
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.dll
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\refint\Buoi9MangDaChieu.dll
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.pdb
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\Buoi9MangDaChieu.genruntimeconfig.cache
+C:\Users\Kun\RiderProjects\Buoi9MangDaChieu\Buoi9MangDaChieu\obj\Debug\net9.0\ref\Buoi9MangDaChieu.dll
